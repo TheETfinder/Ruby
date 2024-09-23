@@ -82,7 +82,8 @@ Etc:
 - Topf✅❌
 - Pfanne✅❌
 - Schneidebrett✅❌
-- Camping besteck❌
+- Besteck✅❌
+- Teller ✅❌
 - Fahrradtasche ❌❌
 
 
